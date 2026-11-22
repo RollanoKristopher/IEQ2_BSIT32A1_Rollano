@@ -1,0 +1,6 @@
+@IEQ2_BSIT32A1_Rollano_HostAddress = http://localhost:5091
+
+GET {{IEQ2_BSIT32A1_Rollano_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
